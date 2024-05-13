@@ -4,6 +4,7 @@ from django.contrib.auth.models import User
 
 SERVICE_CHOICES = (
     ("Doctor care", "Doctor care"),
+    ("Specialities","Specialities"),
     ("Nursing care", "Nursing care"),
     ("Medical social services", "Medical social services"),
     ("Homemaker or basic assistance care", "Homemaker or basic assistance care"),
